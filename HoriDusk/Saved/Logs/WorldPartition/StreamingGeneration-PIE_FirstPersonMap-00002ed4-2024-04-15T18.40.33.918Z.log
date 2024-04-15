@@ -1,0 +1,70 @@
+[+] Containers:
+ |- [+] Container: /Game/JA/FirstPerson/Maps/FirstPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0A6ECCD144583BC910E639885FE33EFA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:0B5B47824C40B2755F7C7E82F4BDB67D BaseClass:/Game/JW/TerrainBP.TerrainBP_C NativeClass:/Script/GeometryScriptingEditor.GeneratedDynamicMeshActor Name:TerrainBP_C_UAID_A8A159071AFE78EC01_1803719495 Label:TerrainBP SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3400.079 Y=-612.442 Z=-864.987), Max=(X=1139.689 Y=3611.900 Z=3547.367) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:54AB46614D7CFA5E51C903A913A0BA6A BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A8A159071AFE78EC01_1832812496 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5677230F42E0063D0E00F08548585B0E BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_A8A159071AFE78EC01_1847735497 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1830.000 Y=1790.000 Z=4960.000), Max=(X=-1750.000 Y=1870.000 Z=5144.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B95F5BF544B0018F1E5407974BDC54D3 BaseClass:/Game/JA/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C NativeClass:/Script/Engine.Character Name:BP_FirstPersonCharacter_C_UAID_A8A159071AFE78EC01_1925398498 Label:BP_FirstPersonCharacter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1605.000 Y=1685.000 Z=5080.000), Max=(X=-1495.000 Y=1795.000 Z=5272.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0A6ECCD144583BC910E639885FE33EFA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0B5B47824C40B2755F7C7E82F4BDB67D BaseClass:/Game/JW/TerrainBP.TerrainBP_C NativeClass:/Script/GeometryScriptingEditor.GeneratedDynamicMeshActor Name:TerrainBP_C_UAID_A8A159071AFE78EC01_1803719495 Label:TerrainBP SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3400.079 Y=-612.442 Z=-864.987), Max=(X=1139.689 Y=3611.900 Z=3547.367) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:54AB46614D7CFA5E51C903A913A0BA6A BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A8A159071AFE78EC01_1832812496 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:5677230F42E0063D0E00F08548585B0E BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_A8A159071AFE78EC01_1847735497 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1830.000 Y=1790.000 Z=4960.000), Max=(X=-1750.000 Y=1870.000 Z=5144.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:B95F5BF544B0018F1E5407974BDC54D3 BaseClass:/Game/JA/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C NativeClass:/Script/Engine.Character Name:BP_FirstPersonCharacter_C_UAID_A8A159071AFE78EC01_1925398498 Label:BP_FirstPersonCharacter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1605.000 Y=1685.000 Z=5080.000), Max=(X=-1495.000 Y=1795.000 Z=5272.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/JA/FirstPerson/Maps/FirstPersonMap
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of FirstPersonMap Persistent Level
+ |- Always loaded Actor Count: 11 
+ |- Actor Path: /Game/JA/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/JA/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/JA/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_UAID_A8A159071AFE78EC01_1925398498
+ |- Actor Package: /Game/__ExternalActors__/JA/FirstPerson/Maps/FirstPersonMap/6/V9/J36FLSCZQWUBOD1XOG4SWG
+ |- Actor Path: /Game/JA/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/JA/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/JA/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/JA/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/JA/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_UAID_A8A159071AFE78EC01_1832812496
+ |- Actor Package: /Game/__ExternalActors__/JA/FirstPerson/Maps/FirstPersonMap/2/VX/UHXC4GK4JWB89ADVJRKYIC
+ |- Actor Path: /Game/JA/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonExampleMap_C_1
+ |- Actor Package: /Game/JA/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/JA/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/JA/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/JA/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerStart_UAID_A8A159071AFE78EC01_1847735497
+ |- Actor Package: /Game/__ExternalActors__/JA/FirstPerson/Maps/FirstPersonMap/7/O4/GEKDT06AHYYYGNUAY83XX3
+ |- Actor Path: /Game/JA/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TerrainBP_C_UAID_A8A159071AFE78EC01_1803719495
+ |- Actor Package: /Game/__ExternalActors__/JA/FirstPerson/Maps/FirstPersonMap/5/30/EKFTHLQGJO11RLYKCJPHVB
+ |- Actor Path: /Game/JA/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/JA/FirstPerson/Maps/FirstPersonMap/C/OM/PBVDSOEBIYCA9NN38F97J4
+ |- Actor Path: /Game/JA/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/JA/FirstPerson/Maps/FirstPersonMap
+
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
