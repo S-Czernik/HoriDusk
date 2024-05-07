@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/repo/horidusk/HoriDusk/Content/JW/TerrainBP.uasset",
+				"D:/repo/horidusk/HoriDusk/Content/__ExternalActors__/Maps/FirstPersonMap/2/AX/VJSFOO3RQU48YOLV1EVWXV.uasset"
+			]
+		}
+	]
+}
