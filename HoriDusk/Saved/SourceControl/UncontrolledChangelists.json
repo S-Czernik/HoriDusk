@@ -6,7 +6,17 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/repo/horidusk/HoriDusk/Content/JW/TerrainBP.uasset",
-				"D:/repo/horidusk/HoriDusk/Content/__ExternalActors__/Maps/FirstPersonMap/2/AX/VJSFOO3RQU48YOLV1EVWXV.uasset"
+				"D:/repo/horidusk/HoriDusk/Content/__ExternalActors__/Maps/FirstPersonMap/2/AX/VJSFOO3RQU48YOLV1EVWXV.uasset",
+				"D:/repo/horidusk/HoriDusk/Content/mapAssets/BP_Game_Instance.uasset",
+				"D:/repo/horidusk/HoriDusk/Content/mapAssets/BP_Planet_Generator.uasset",
+				"D:/repo/horidusk/HoriDusk/Content/mapAssets/BP_Planet_Generatorv2.uasset",
+				"D:/repo/horidusk/HoriDusk/Content/mapAssets/BP_Main_UI.uasset",
+				"D:/repo/horidusk/HoriDusk/Content/mapAssets/BP_Ship.uasset",
+				"D:/repo/horidusk/HoriDusk/Content/Maps/MapMap.umap",
+				"D:/repo/horidusk/HoriDusk/Content/mapAssets/BP_Planet_UI.uasset",
+				"D:/repo/horidusk/HoriDusk/Content/__ExternalActors__/Maps/FirstPersonMap/7/42/G4PWRI1LPYFSZNYSGEY46W.uasset",
+				"D:/repo/horidusk/HoriDusk/Content/__ExternalActors__/Maps/FirstPersonMap/3/BI/380EC3BQ4TJT0EY94GNILR.uasset",
+				"D:/repo/horidusk/HoriDusk/Content/__ExternalActors__/Maps/FirstPersonMap/4/1W/Z7O72Q6LXT9ONOL485SXEQ.uasset"
 			]
 		}
 	]
