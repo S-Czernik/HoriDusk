@@ -17,9 +17,11 @@
 				"D:/repo/horidusk/HoriDusk/Content/__ExternalActors__/Maps/FirstPersonMap/7/42/G4PWRI1LPYFSZNYSGEY46W.uasset",
 				"D:/repo/horidusk/HoriDusk/Content/__ExternalActors__/Maps/FirstPersonMap/3/BI/380EC3BQ4TJT0EY94GNILR.uasset",
 				"D:/repo/horidusk/HoriDusk/Content/__ExternalActors__/Maps/FirstPersonMap/4/1W/Z7O72Q6LXT9ONOL485SXEQ.uasset",
-				"D:/repo/horidusk/HoriDusk/Content/mapAssets/BP_Starting_Planet.uasset",
 				"D:/repo/horidusk/HoriDusk/Content/mapAssets/BP_Explosion.uasset",
-				"D:/repo/horidusk/HoriDusk/Content/mapAssets/BP_Planet.uasset"
+				"D:/repo/horidusk/HoriDusk/Content/mapAssets/BP_Planet.uasset",
+				"D:/repo/horidusk/HoriDusk/Content/mapAssets/Planet_Resources.uasset",
+				"D:/repo/horidusk/HoriDusk/Content/mapAssets/BP_Planet_Details.uasset",
+				"D:/repo/horidusk/HoriDusk/Content/mapAssets/BP_Starting_Planet.uasset"
 			]
 		}
 	]
