@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Komputer/Documents/GitHub/HoriDusk/HoriDusk/Content/Maps/MapMap.umap",
+				"C:/Users/Komputer/Documents/GitHub/HoriDusk/HoriDusk/Content/FirstPerson/Blueprints/GameInstance.uasset",
 				"C:/Users/jwiec/Desktop/repozytoria/HoriDusk/HoriDusk/Content/JW/TerrainBP.uasset",
 				"C:/Users/jwiec/Desktop/repozytoria/HoriDusk/HoriDusk/Content/__ExternalActors__/Maps/FirstPersonMap/7/42/G4PWRI1LPYFSZNYSGEY46W.uasset",
 				"C:/Users/jwiec/Desktop/repozytoria/HoriDusk/HoriDusk/Content/JW/PlanetMaterials/material_fuel.uasset",
