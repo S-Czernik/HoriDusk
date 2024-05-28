@@ -1985,3 +1985,19 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.28-10.44.15:778][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
 [2024.05.28-10.44.15:783][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
 [2024.05.28-10.44.15:867][815]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.05.28-10.45.17:800][123]BlueprintLog: New page: Compile BP_Game_Instance
+[2024.05.28-10.45.17:820][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.28-10.45.53:328][320]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.28-10.45.53:328][320]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-10.45.53:328][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-10.45.54:455][450]BlueprintLog: New page: Compile BP_Game_Instance
+[2024.05.28-10.45.54:477][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.28-10.45.55:927][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.28-10.45.57:395][616]LogSlate: Window 'Save Content' being destroyed
+[2024.05.28-10.45.57:401][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.28-10.45.57:427][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mapAssets/BP_Game_Instance" FILE="../../../../../../Users/Komputer/Documents/GitHub/HoriDusk/HoriDusk/Content/mapAssets/BP_Game_Instance.uasset" SILENT=true
+[2024.05.28-10.45.57:436][616]LogSavePackage: Moving output files for package: /Game/mapAssets/BP_Game_Instance
+[2024.05.28-10.45.57:436][616]LogSavePackage: Moving '../../../../../../Users/Komputer/Documents/GitHub/HoriDusk/HoriDusk/Saved/BP_Game_InstanceC77C98C84495ED14C91C14A4CB631882.tmp' to '../../../../../../Users/Komputer/Documents/GitHub/HoriDusk/HoriDusk/Content/mapAssets/BP_Game_Instance.uasset'
+[2024.05.28-10.45.57:443][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 313 ms)
+[2024.05.28-10.45.57:444][616]AssetCheck: New page: Asset Save: BP_Game_Instance
+[2024.05.28-10.45.57:444][616]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/mapAssets/BP_Game_Instance.BP_Game_Instance
