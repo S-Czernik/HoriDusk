@@ -1,0 +1,100 @@
+[+] Containers:
+ |- [+] Container: /Game/Maps/FirstPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0A6ECCD144583BC910E639885FE33EFA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:0B5B47824C40B2755F7C7E82F4BDB67D BaseClass:/Game/JW/TerrainBP.TerrainBP_C NativeClass:/Script/GeometryScriptingEditor.GeneratedDynamicMeshActor Name:TerrainBP_C_UAID_A8A159071AFE78EC01_1803719495 Label:TerrainBP SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2015.647 Y=-2033.989 Z=-2043.135), Max=(X=9840.000 Y=2027.924 Z=2041.785) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2C692FFF411CBE3C864F24AE4054433D BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D497BFF001_1339184215 Label:PointLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-11374.000 Y=-26154.000 Z=-10694.000), Max=(X=21394.000 Y=6614.000 Z=22074.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:53EB5C794FEE12E3209626BDA62FFF26 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D49799EF01_1104831473 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25374.000 Y=-9964.000 Z=-10094.000), Max=(X=7394.000 Y=22804.000 Z=22674.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:784C6F1E4D2A47AEFEC27D875246C56D BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D497BFF001_1776030217 Label:PointLight5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-21834.000 Y=-21104.000 Z=-14954.000), Max=(X=10934.000 Y=11664.000 Z=17814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:83CE15BE480C359E029D51B64D906D62 BaseClass:/Game/JW/BP_Return.BP_Return_C NativeClass:/Script/Engine.Actor Name:BP_Return_C_UAID_A8A159071AFE79EC01_1823791671 Label:BP_Return SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1440.000 Y=320.000 Z=1380.000), Max=(X=1540.000 Y=420.000 Z=1480.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8CFFC72148BD561D0D9558AC7E0F08E0 BaseClass:/Game/FirstPerson/Blueprints/PlayerCharacter.PlayerCharacter_C NativeClass:/Script/Engine.Pawn Name:PlayerCharacter_C_UAID_E89C2573D497C0F001_1383441394 Label:PlayerCharacter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=425.000 Y=-105.000 Z=2064.000), Max=(X=535.000 Y=5.000 Z=2256.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BCB6B65C4230A33D86F33AA1AF28A96C BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D497BFF001_1759356216 Label:PointLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-11374.000 Y=-13354.000 Z=-15224.000), Max=(X=21394.000 Y=19414.000 Z=17544.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CABD45D547B2E1A6A17309A80F691810 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D49798EF01_2106693296 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-13774.000 Y=-16364.000 Z=-23654.000), Max=(X=18994.000 Y=16404.000 Z=9114.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D29DF3D849CFD64759F04897579D41FF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF90C7AEAFA01_1721608345 Label:StaticMeshActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-620.000 Y=-340.000 Z=1910.000), Max=(X=-620.000 Y=-340.000 Z=1910.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D86D1A78445EB5539BBCA8A6C38F964C BaseClass:/Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_Rifle_C_UAID_088FC36558DCC2EC01_2073067519 Label:BP_Pickup_Rifle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=880.000 Y=142.665 Z=1910.000), Max=(X=1040.000 Y=339.100 Z=2081.608) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0A6ECCD144583BC910E639885FE33EFA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0B5B47824C40B2755F7C7E82F4BDB67D BaseClass:/Game/JW/TerrainBP.TerrainBP_C NativeClass:/Script/GeometryScriptingEditor.GeneratedDynamicMeshActor Name:TerrainBP_C_UAID_A8A159071AFE78EC01_1803719495 Label:TerrainBP SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2015.647 Y=-2033.989 Z=-2043.135), Max=(X=9840.000 Y=2027.924 Z=2041.785) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:2C692FFF411CBE3C864F24AE4054433D BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D497BFF001_1339184215 Label:PointLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-11374.000 Y=-26154.000 Z=-10694.000), Max=(X=21394.000 Y=6614.000 Z=22074.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:53EB5C794FEE12E3209626BDA62FFF26 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D49799EF01_1104831473 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25374.000 Y=-9964.000 Z=-10094.000), Max=(X=7394.000 Y=22804.000 Z=22674.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:784C6F1E4D2A47AEFEC27D875246C56D BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D497BFF001_1776030217 Label:PointLight5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-21834.000 Y=-21104.000 Z=-14954.000), Max=(X=10934.000 Y=11664.000 Z=17814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:83CE15BE480C359E029D51B64D906D62 BaseClass:/Game/JW/BP_Return.BP_Return_C NativeClass:/Script/Engine.Actor Name:BP_Return_C_UAID_A8A159071AFE79EC01_1823791671 Label:BP_Return SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1440.000 Y=320.000 Z=1380.000), Max=(X=1540.000 Y=420.000 Z=1480.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:8CFFC72148BD561D0D9558AC7E0F08E0 BaseClass:/Game/FirstPerson/Blueprints/PlayerCharacter.PlayerCharacter_C NativeClass:/Script/Engine.Pawn Name:PlayerCharacter_C_UAID_E89C2573D497C0F001_1383441394 Label:PlayerCharacter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=425.000 Y=-105.000 Z=2064.000), Max=(X=535.000 Y=5.000 Z=2256.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:BCB6B65C4230A33D86F33AA1AF28A96C BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D497BFF001_1759356216 Label:PointLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-11374.000 Y=-13354.000 Z=-15224.000), Max=(X=21394.000 Y=19414.000 Z=17544.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:CABD45D547B2E1A6A17309A80F691810 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D49798EF01_2106693296 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-13774.000 Y=-16364.000 Z=-23654.000), Max=(X=18994.000 Y=16404.000 Z=9114.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:D29DF3D849CFD64759F04897579D41FF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF90C7AEAFA01_1721608345 Label:StaticMeshActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-620.000 Y=-340.000 Z=1910.000), Max=(X=-620.000 Y=-340.000 Z=1910.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:D86D1A78445EB5539BBCA8A6C38F964C BaseClass:/Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_Rifle_C_UAID_088FC36558DCC2EC01_2073067519 Label:BP_Pickup_Rifle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=880.000 Y=142.665 Z=1910.000), Max=(X=1040.000 Y=339.100 Z=2081.608) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Maps/FirstPersonMap
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of FirstPersonMap Persistent Level
+ |- Always loaded Actor Count: 17 
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Pickup_Rifle_C_UAID_088FC36558DCC2EC01_2073067519
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/7/42/G4PWRI1LPYFSZNYSGEY46W
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Return_C_UAID_A8A159071AFE79EC01_1823791671
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/3/BI/380EC3BQ4TJT0EY94GNILR
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonExampleMap_C_1
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerCharacter_C_UAID_E89C2573D497C0F001_1383441394
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/2/AX/VJSFOO3RQU48YOLV1EVWXV
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_E89C2573D49798EF01_2106693296
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/2/7W/AURWQEEN3VSHF0B1V1NWOO
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_E89C2573D49799EF01_1104831473
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/7/KK/YUW3PTLX3OJLUM19GVX2LN
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_E89C2573D497BFF001_1339184215
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/5/5K/6B3Q2M7HSZMHFL9PGND9ZU
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_E89C2573D497BFF001_1759356216
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/B/0E/HT3DFHFILRDSQWFBM01B8U
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_E89C2573D497BFF001_1776030217
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/B/FY/1NH7A3YWH4Z3W8Z29URH96
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_E4A8DFF90C7AEAFA01_1721608345
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/C/TD/C41GSVGMEPLFNAT6P1S0GW
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TerrainBP_C_UAID_A8A159071AFE78EC01_1803719495
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/4/1W/Z7O72Q6LXT9ONOL485SXEQ
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/B/D0/47PXUBWBUXPV95S4OEQ7HH
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/Maps/FirstPersonMap
+
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
