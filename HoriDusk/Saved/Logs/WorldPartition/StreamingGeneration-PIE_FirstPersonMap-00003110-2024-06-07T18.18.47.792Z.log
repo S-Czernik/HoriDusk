@@ -1,0 +1,231 @@
+[+] Containers:
+ |- [+] Container: /Game/Maps/FirstPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0A6ECCD144583BC910E639885FE33EFA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:0B545AFC40C71AEFF048339573A55D91 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551749789 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=422.793 Y=-1800.584 Z=1089.696), Max=(X=923.504 Y=-1505.800 Z=1317.290) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0B5B47824C40B2755F7C7E82F4BDB67D BaseClass:/Game/JW/TerrainBP.TerrainBP_C NativeClass:/Script/GeometryScriptingEditor.GeneratedDynamicMeshActor Name:TerrainBP_C_UAID_A8A159071AFE78EC01_1803719495 Label:TerrainBP SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2021.711 Y=-2050.021 Z=-2044.502), Max=(X=2050.818 Y=2023.304 Z=2072.756) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1B4AF9BF4676BADF0686CD844291DE80 BaseClass:/Game/JW/BP_Fuel.BP_Fuel_C NativeClass:/Script/Engine.Actor Name:BP_Fuel_C_UAID_7427EAB8256614FD01_1200066046 Label:BP_Fuel SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1512.720 Y=47.338 Z=-1173.661), Max=(X=1684.927 Y=203.489 Z=-986.899) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2C692FFF411CBE3C864F24AE4054433D BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D497BFF001_1339184215 Label:PointLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-11374.000 Y=-26154.000 Z=-10694.000), Max=(X=21394.000 Y=6614.000 Z=22074.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:49387DB6483190483BBCCCACF4F33127 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551730785 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=194.733 Y=-70.034 Z=2023.356), Max=(X=384.262 Y=384.542 Z=2239.538) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:53EB5C794FEE12E3209626BDA62FFF26 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D49799EF01_1104831473 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25374.000 Y=-9964.000 Z=-10094.000), Max=(X=7394.000 Y=22804.000 Z=22674.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:56A9083B4E2B139B27CE3582692965B2 BaseClass:/SunPosition/SunSky.SunSky_C NativeClass:/Script/Engine.Actor Name:SunSky_C_UAID_E4A8DFF90C7A2BFB01_1164576783 Label:SunSky SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5F3583B845AA8CF23B125390C70944CD BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551740787 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-902.262 Y=1914.287 Z=170.940), Max=(X=-415.215 Y=2145.123 Z=348.955) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:60398F7B4FCACECF92DA12B56A380142 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551758791 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2020.375 Y=-1300.350 Z=-117.052), Max=(X=-1727.439 Y=-808.971 Z=45.562) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:784C6F1E4D2A47AEFEC27D875246C56D BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D497BFF001_1776030217 Label:PointLight5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-21834.000 Y=-21104.000 Z=-14954.000), Max=(X=10934.000 Y=11664.000 Z=17814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:787DA0DD49ED092437DAF0A02A9DB714 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551754790 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1324.722 Y=1284.765 Z=-216.853), Max=(X=1708.005 Y=1758.726 Z=-47.407) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8001B1AD478F0B9D7605E393B504355E BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551745788 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1009.225 Y=-743.262 Z=-1834.710), Max=(X=1430.869 Y=-264.753 Z=-1591.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:80035DB64ED40AF8D98CFCAD44E798AC BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551735786 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-139.549 Y=-625.070 Z=1984.160), Max=(X=324.121 Y=-394.432 Z=2209.581) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:83CE15BE480C359E029D51B64D906D62 BaseClass:/Game/JW/BP_Return.BP_Return_C NativeClass:/Script/Engine.Actor Name:BP_Return_C_UAID_A8A159071AFE79EC01_1823791671 Label:BP_Return SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1440.000 Y=320.000 Z=1380.000), Max=(X=1540.000 Y=420.000 Z=1480.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8CFFC72148BD561D0D9558AC7E0F08E0 BaseClass:/Game/FirstPerson/Blueprints/PlayerCharacter.PlayerCharacter_C NativeClass:/Script/Engine.Pawn Name:PlayerCharacter_C_UAID_E89C2573D497C0F001_1383441394 Label:PlayerCharacter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=425.000 Y=-105.000 Z=2104.000), Max=(X=535.000 Y=5.000 Z=2296.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B6FE0280430A06953AEE4695CECD2F7C BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551768794 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-809.269 Y=1431.810 Z=-1477.018), Max=(X=-314.110 Y=1711.978 Z=-1242.510) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B7A413BC4674775FCE788E9882927DD9 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551764793 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1930.361 Y=-742.918 Z=-86.288), Max=(X=2256.264 Y=-282.375 Z=74.158) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B7D124AE4AEE53BFA575B29F40252442 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551778797 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1601.814 Y=1337.132 Z=578.936), Max=(X=-1103.780 Y=1725.873 Z=781.015) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BCB6B65C4230A33D86F33AA1AF28A96C BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D497BFF001_1759356216 Label:PointLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-11374.000 Y=-13354.000 Z=-15224.000), Max=(X=21394.000 Y=19414.000 Z=17544.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BD2C76D4465FC29E81F48596FDE07CA8 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551725784 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-292.514 Y=2022.416 Z=187.544), Max=(X=160.438 Y=2254.076 Z=366.666) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C2CB082545AAE708329DF3AF91D007F2 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551761792 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1253.778 Y=-409.581 Z=-1746.698), Max=(X=1584.715 Y=67.321 Z=-1504.373) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C7191FB940A5A505930809AD18A1A164 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551774796 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2164.766 Y=640.218 Z=-212.768), Max=(X=-1773.289 Y=1091.740 Z=-43.596) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C73ACB5D41C094DEEAD8BA87CEDF20F5 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_E4A8DFF90C7A2AFB01_1718635608 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=23.348), Max=(X=0.000 Y=0.000 Z=23.348) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:CABD45D547B2E1A6A17309A80F691810
+ |   |   |- Guid:CABD45D547B2E1A6A17309A80F691810 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D49798EF01_2106693296 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-13774.000 Y=-16364.000 Z=-23654.000), Max=(X=18994.000 Y=16404.000 Z=9114.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CE3AA6EC438B73A4D89BCA888B114BC4 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_E4A8DFF90C7A2AFB01_1302536607 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=215.895), Max=(X=0.000 Y=0.000 Z=215.895) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D29DF3D849CFD64759F04897579D41FF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF90C7AEAFA01_1721608345 Label:StaticMeshActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-620.000 Y=-340.000 Z=1910.000), Max=(X=-620.000 Y=-340.000 Z=1910.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D723EA4A41F77435BA8F48ABF850E161 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551417783 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=224.663 Y=-1724.828 Z=1260.482), Max=(X=712.073 Y=-1456.953 Z=1495.703) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D86D1A78445EB5539BBCA8A6C38F964C BaseClass:/Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_Rifle_C_UAID_088FC36558DCC2EC01_2073067519 Label:BP_Pickup_Rifle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=500.000 Y=-37.335 Z=1970.000), Max=(X=660.000 Y=159.100 Z=2141.608) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DEFA95D944B3758F0140E798D76865A3 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551771795 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1885.651 Y=-752.966 Z=1034.367), Max=(X=-1621.636 Y=-264.831 Z=1259.115) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E56B22FF4AAA775D021CC48569B64499 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551781798 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-581.490 Y=2021.965 Z=-243.372), Max=(X=-115.215 Y=2227.426 Z=-72.162) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0A6ECCD144583BC910E639885FE33EFA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0B545AFC40C71AEFF048339573A55D91 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551749789 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=422.793 Y=-1800.584 Z=1089.696), Max=(X=923.504 Y=-1505.800 Z=1317.290) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:0B5B47824C40B2755F7C7E82F4BDB67D BaseClass:/Game/JW/TerrainBP.TerrainBP_C NativeClass:/Script/GeometryScriptingEditor.GeneratedDynamicMeshActor Name:TerrainBP_C_UAID_A8A159071AFE78EC01_1803719495 Label:TerrainBP SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2021.711 Y=-2050.021 Z=-2044.502), Max=(X=2050.818 Y=2023.304 Z=2072.756) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:1B4AF9BF4676BADF0686CD844291DE80 BaseClass:/Game/JW/BP_Fuel.BP_Fuel_C NativeClass:/Script/Engine.Actor Name:BP_Fuel_C_UAID_7427EAB8256614FD01_1200066046 Label:BP_Fuel SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1512.720 Y=47.338 Z=-1173.661), Max=(X=1684.927 Y=203.489 Z=-986.899) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:2C692FFF411CBE3C864F24AE4054433D BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D497BFF001_1339184215 Label:PointLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-11374.000 Y=-26154.000 Z=-10694.000), Max=(X=21394.000 Y=6614.000 Z=22074.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:49387DB6483190483BBCCCACF4F33127 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551730785 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=194.733 Y=-70.034 Z=2023.356), Max=(X=384.262 Y=384.542 Z=2239.538) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:53EB5C794FEE12E3209626BDA62FFF26 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D49799EF01_1104831473 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25374.000 Y=-9964.000 Z=-10094.000), Max=(X=7394.000 Y=22804.000 Z=22674.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:56A9083B4E2B139B27CE3582692965B2 BaseClass:/SunPosition/SunSky.SunSky_C NativeClass:/Script/Engine.Actor Name:SunSky_C_UAID_E4A8DFF90C7A2BFB01_1164576783 Label:SunSky SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:5F3583B845AA8CF23B125390C70944CD BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551740787 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-902.262 Y=1914.287 Z=170.940), Max=(X=-415.215 Y=2145.123 Z=348.955) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:60398F7B4FCACECF92DA12B56A380142 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551758791 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2020.375 Y=-1300.350 Z=-117.052), Max=(X=-1727.439 Y=-808.971 Z=45.562) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:784C6F1E4D2A47AEFEC27D875246C56D BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D497BFF001_1776030217 Label:PointLight5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-21834.000 Y=-21104.000 Z=-14954.000), Max=(X=10934.000 Y=11664.000 Z=17814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:787DA0DD49ED092437DAF0A02A9DB714 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551754790 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1324.722 Y=1284.765 Z=-216.853), Max=(X=1708.005 Y=1758.726 Z=-47.407) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:8001B1AD478F0B9D7605E393B504355E BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551745788 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1009.225 Y=-743.262 Z=-1834.710), Max=(X=1430.869 Y=-264.753 Z=-1591.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:80035DB64ED40AF8D98CFCAD44E798AC BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551735786 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-139.549 Y=-625.070 Z=1984.160), Max=(X=324.121 Y=-394.432 Z=2209.581) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:83CE15BE480C359E029D51B64D906D62 BaseClass:/Game/JW/BP_Return.BP_Return_C NativeClass:/Script/Engine.Actor Name:BP_Return_C_UAID_A8A159071AFE79EC01_1823791671 Label:BP_Return SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1440.000 Y=320.000 Z=1380.000), Max=(X=1540.000 Y=420.000 Z=1480.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:8CFFC72148BD561D0D9558AC7E0F08E0 BaseClass:/Game/FirstPerson/Blueprints/PlayerCharacter.PlayerCharacter_C NativeClass:/Script/Engine.Pawn Name:PlayerCharacter_C_UAID_E89C2573D497C0F001_1383441394 Label:PlayerCharacter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=425.000 Y=-105.000 Z=2104.000), Max=(X=535.000 Y=5.000 Z=2296.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:B6FE0280430A06953AEE4695CECD2F7C BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551768794 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-809.269 Y=1431.810 Z=-1477.018), Max=(X=-314.110 Y=1711.978 Z=-1242.510) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:B7A413BC4674775FCE788E9882927DD9 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551764793 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1930.361 Y=-742.918 Z=-86.288), Max=(X=2256.264 Y=-282.375 Z=74.158) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:B7D124AE4AEE53BFA575B29F40252442 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551778797 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1601.814 Y=1337.132 Z=578.936), Max=(X=-1103.780 Y=1725.873 Z=781.015) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:BCB6B65C4230A33D86F33AA1AF28A96C BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D497BFF001_1759356216 Label:PointLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-11374.000 Y=-13354.000 Z=-15224.000), Max=(X=21394.000 Y=19414.000 Z=17544.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:BD2C76D4465FC29E81F48596FDE07CA8 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551725784 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-292.514 Y=2022.416 Z=187.544), Max=(X=160.438 Y=2254.076 Z=366.666) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:C2CB082545AAE708329DF3AF91D007F2 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551761792 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1253.778 Y=-409.581 Z=-1746.698), Max=(X=1584.715 Y=67.321 Z=-1504.373) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:C7191FB940A5A505930809AD18A1A164 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551774796 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2164.766 Y=640.218 Z=-212.768), Max=(X=-1773.289 Y=1091.740 Z=-43.596) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:C73ACB5D41C094DEEAD8BA87CEDF20F5 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_E4A8DFF90C7A2AFB01_1718635608 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=23.348), Max=(X=0.000 Y=0.000 Z=23.348) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:CABD45D547B2E1A6A17309A80F691810
+ |   |   |   |- Guid:CABD45D547B2E1A6A17309A80F691810 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E89C2573D49798EF01_2106693296 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-13774.000 Y=-16364.000 Z=-23654.000), Max=(X=18994.000 Y=16404.000 Z=9114.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:CE3AA6EC438B73A4D89BCA888B114BC4 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_E4A8DFF90C7A2AFB01_1302536607 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=215.895), Max=(X=0.000 Y=0.000 Z=215.895) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:D29DF3D849CFD64759F04897579D41FF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF90C7AEAFA01_1721608345 Label:StaticMeshActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-620.000 Y=-340.000 Z=1910.000), Max=(X=-620.000 Y=-340.000 Z=1910.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:D723EA4A41F77435BA8F48ABF850E161 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551417783 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=224.663 Y=-1724.828 Z=1260.482), Max=(X=712.073 Y=-1456.953 Z=1495.703) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:D86D1A78445EB5539BBCA8A6C38F964C BaseClass:/Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_Rifle_C_UAID_088FC36558DCC2EC01_2073067519 Label:BP_Pickup_Rifle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=500.000 Y=-37.335 Z=1970.000), Max=(X=660.000 Y=159.100 Z=2141.608) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:DEFA95D944B3758F0140E798D76865A3 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551771795 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1885.651 Y=-752.966 Z=1034.367), Max=(X=-1621.636 Y=-264.831 Z=1259.115) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:E56B22FF4AAA775D021CC48569B64499 BaseClass:/Game/Enemy/Turret/BP_Turret.BP_Turret_C NativeClass:/Script/Engine.Pawn Name:BP_Turret_C_UAID_7427EAB825661FFD01_1551781798 Label:BP_Turret SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-581.490 Y=2021.965 Z=-243.372), Max=(X=-115.215 Y=2227.426 Z=-72.162) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Maps/FirstPersonMap
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of FirstPersonMap Persistent Level
+ |- Always loaded Actor Count: 53 
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AIController_0
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AIController_1
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AIController_2
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AIController_3
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AIController_4
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AIController_5
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AIController_6
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AIController_7
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AIController_8
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AIController_9
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AIController_10
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AIController_11
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AIController_12
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AIController_13
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AIController_14
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AIController_15
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Fuel_C_UAID_7427EAB8256614FD01_1200066046
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/3/YV/UOVLHAOKF0MWNNXKB5BOV5
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Pickup_Rifle_C_UAID_088FC36558DCC2EC01_2073067519
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/7/42/G4PWRI1LPYFSZNYSGEY46W
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Return_C_UAID_A8A159071AFE79EC01_1823791671
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/3/BI/380EC3BQ4TJT0EY94GNILR
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Turret_C_UAID_7427EAB825661FFD01_1551417783
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/4/5K/7RR20G81N9IANF92YPQD4A
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Turret_C_UAID_7427EAB825661FFD01_1551725784
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/5/RZ/50WJ1856SKO1B7YPM909C5
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Turret_C_UAID_7427EAB825661FFD01_1551730785
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/4/OJ/WYUIM4LGIJGJ5BH7VU7LRI
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Turret_C_UAID_7427EAB825661FFD01_1551735786
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/5/PD/R9N2LIRMJ8BXJYV2VPXJJH
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Turret_C_UAID_7427EAB825661FFD01_1551740787
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/8/SD/1QZS4FRAPCRDGWMBKVEYQR
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Turret_C_UAID_7427EAB825661FFD01_1551745788
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/1/4L/ARG3WMCXVBEMB6KV15ID9T
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Turret_C_UAID_7427EAB825661FFD01_1551749789
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/5/BP/5ZJ041CQZN164PKEN6QTLI
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Turret_C_UAID_7427EAB825661FFD01_1551754790
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/E/J5/0SY0MH67MZ6J3O3CMTFX9O
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Turret_C_UAID_7427EAB825661FFD01_1551758791
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/5/NJ/BVO13W4PNWH3OPGI8FOFZI
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Turret_C_UAID_7427EAB825661FFD01_1551761792
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/E/I8/5NVSN68EHL0OLBBEPM78EU
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Turret_C_UAID_7427EAB825661FFD01_1551764793
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/4/TN/MBVLU156KPS9GSTB6V27AZ
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Turret_C_UAID_7427EAB825661FFD01_1551768794
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/C/AY/DSUSYQC91H7MJMQ3JZVYOI
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Turret_C_UAID_7427EAB825661FFD01_1551771795
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/4/WD/Z7U9G46F3O3YDI0FCORBF4
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Turret_C_UAID_7427EAB825661FFD01_1551774796
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/8/HM/00LRQ217GR02SSQ2UMAO0R
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Turret_C_UAID_7427EAB825661FFD01_1551778797
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/C/U0/3KQF2V9NDLODMSECBR5Z7A
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Turret_C_UAID_7427EAB825661FFD01_1551781798
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/B/8U/ITOVHVD6L60K87DP88OJK3
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ExponentialHeightFog_UAID_E4A8DFF90C7A2AFB01_1718635608
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/A/SG/SPLVDV4TWSKIZBW8UQRGUN
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonExampleMap_C_1
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Maps/FirstPersonMap
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerCharacter_C_UAID_E89C2573D497C0F001_1383441394
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/2/AX/VJSFOO3RQU48YOLV1EVWXV
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_E89C2573D49798EF01_2106693296
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/2/7W/AURWQEEN3VSHF0B1V1NWOO
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_E89C2573D49799EF01_1104831473
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/7/KK/YUW3PTLX3OJLUM19GVX2LN
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_E89C2573D497BFF001_1339184215
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/5/5K/6B3Q2M7HSZMHFL9PGND9ZU
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_E89C2573D497BFF001_1759356216
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/B/0E/HT3DFHFILRDSQWFBM01B8U
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_E89C2573D497BFF001_1776030217
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/B/FY/1NH7A3YWH4Z3W8Z29URH96
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyAtmosphere_UAID_E4A8DFF90C7A2AFB01_1302536607
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/E/SN/XD7SRT3QUWA9NROQPG16R5
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_E4A8DFF90C7AEAFA01_1721608345
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/C/TD/C41GSVGMEPLFNAT6P1S0GW
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SunSky_C_UAID_E4A8DFF90C7A2BFB01_1164576783
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/0/PW/Y8U343VPC8VFCAQRE2DN26
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TerrainBP_C_UAID_A8A159071AFE78EC01_1803719495
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/4/1W/Z7O72Q6LXT9ONOL485SXEQ
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Maps/FirstPersonMap/B/D0/47PXUBWBUXPV95S4OEQ7HH
+ |- Actor Path: /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/Maps/FirstPersonMap
+
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
